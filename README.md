@@ -8,7 +8,7 @@ Description
 
 User can enter search parameters and using the NYT API, a list of articles related to the search is returned.
 
-Technologies:
+Technologies
 
 HTML
 Twitter Bootstrap
