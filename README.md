@@ -14,3 +14,7 @@ User can enter search parameters and using the NYT API, a list of articles relat
 + jQuery
 + AJAX
 + New York Times API
+
+**Contributers**
+Tom K.
+https://github.com/ThomK1429
