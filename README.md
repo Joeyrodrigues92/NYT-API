@@ -10,9 +10,9 @@ User can enter search parameters and using the NYT API, a list of articles relat
 
 Technologies:
 
--HTML
--Twitter Bootstrap
--JavaScript
--jQuery
--AJAX
--New York Times API
+HTML
+Twitter Bootstrap
+JavaScript
+jQuery
+AJAX
+New York Times API
